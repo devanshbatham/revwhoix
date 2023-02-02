@@ -21,7 +21,6 @@ cd revwhoix
 pip install .
 ```
 
-
 # API Key Setup
 
 - Create an account at [main.whoisxmlapi.com](https://main.whoisxmlapi.com/).
@@ -32,7 +31,7 @@ pip install .
 
 # Usage
 
-```sh
+```console
 (~) >>> revwhoix -k "Airbnb, Inc"
 
                             __          _
@@ -57,9 +56,9 @@ hoteltonight.in
 cybersource.com.do
 byairbnb.com
 airbnb-aws.com
-................................
-................................
-................................
+..............
+..............
+..............
 airbnb.com.pe
 airbnb.ae
 ```
