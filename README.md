@@ -31,7 +31,7 @@ pip install .
 
 # Usage
 
-```console
+```sh
 (~) >>> revwhoix -k "Airbnb, Inc"
 
                             __          _
