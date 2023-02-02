@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <a href="#installation">Install</a> •
-  <a href="#example-usage">Usage</a> •
-  <a href="#post-installation-instructions">API Key Setup</a> •
+  <a href="#installation">🏗️ Install</a> •
+  <a href="#example-usage">⛏️ Usage</a> •
+  <a href="#post-installation-instructions">📝 API Key Setup</a>
 </p>
