@@ -1,5 +1,5 @@
 <h1 align="center">
-    RevWhoix
+    revwhoix
   <br>
 </h1>
 
