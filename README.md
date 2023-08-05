@@ -16,7 +16,7 @@
 
 # Install
 ```sh
-git clone https://github.com/Sybil-Scan/revwhoix
+git clone https://github.com/devanshbatham/revwhoix
 cd revwhoix
 pip install .
 ```
@@ -40,8 +40,6 @@ pip install .
  / /  /  __/ |/ /| |/ |/ / / / / /_/ / />  <
 /_/   \___/|___/ |__/|__/_/ /_/\____/_/_/|_|
 
-
-                             - by Sybil Scan Research <research@sybilscan.com>
 
 🚀 Performing reverse whois lookup on "Airbnb, Inc"
 🔍 Checking if domains exist
